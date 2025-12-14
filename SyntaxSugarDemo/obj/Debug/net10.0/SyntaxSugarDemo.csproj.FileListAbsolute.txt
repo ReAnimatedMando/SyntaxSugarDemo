@@ -1,0 +1,15 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\bin\Debug\net10.0\SyntaxSugarDemo.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\bin\Debug\net10.0\SyntaxSugarDemo.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\bin\Debug\net10.0\SyntaxSugarDemo.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\bin\Debug\net10.0\SyntaxSugarDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\bin\Debug\net10.0\SyntaxSugarDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.sourcelink.json
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\refint\SyntaxSugarDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\SyntaxSugarDemo.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\SyntaxSugarDemo\SyntaxSugarDemo\obj\Debug\net10.0\ref\SyntaxSugarDemo.dll

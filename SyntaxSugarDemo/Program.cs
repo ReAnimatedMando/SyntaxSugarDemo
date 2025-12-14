@@ -11,5 +11,9 @@ class Program
         // Inferred typing
         var myVariable = 10; // the var makes it so the compiler will decide the type based on the value, in this case an integer
         
+        // Inline if statement (aka the ternary operator)
+        var age = 40;
+
+        Console.WriteLine(age >= 18 ? "You're an adult!" : age < 5 ? "You're a child!" : "You're a minor!");
     }
 }
